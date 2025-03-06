@@ -1,6 +1,7 @@
 import math
 from collections import defaultdict
 
+
 def grid_neighbors(coords, d):
     """
     Función optimizada para encontrar vecinos dentro de una distancia `d` usando una estructura de cuadrícula.
