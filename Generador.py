@@ -2,6 +2,7 @@ import random
 import math
 import sys
 
+
 def generar_peptidos():
     # Genera entre 1 y 5 péptidos aleatorios de 5 caracteres únicos
     amino_acidos = 'ACDEFGHIKLMNPQRSTVWY'
